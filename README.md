@@ -1,7 +1,8 @@
+![logo](https://github.com/axihero1/axihero1/blob/main/Screenshot%202023-01-04%20at%2022.53.55.png)
 <h1 align="center">Hi 👋, I'm axihero1</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif”>
+<img align="right" alt=“Coding” width=“400” src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axiher01" alt="axiher01" /></a> </p>
 
